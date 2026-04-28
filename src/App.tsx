@@ -140,7 +140,7 @@ function App() {
     {
       icon: TrendingUp,
       title: 'Backend',
-      skills: ['.NET Core', 'ASP.NET Core', 'ASP.NET MVC', 'Entity Framework ORM', 'REST APIs', 'Microservices', 'Node.js', 'Middleware Integration', 'Circuit Breaker Pattern']
+      skills: ['.NET Core', 'ASP.NET Core', 'ASP.NET MVC', 'Entity Framework ORM', 'REST APIs', 'Microservices', 'Node.js', 'Middleware Integration', ]
     },
     {
       icon: Users,
@@ -163,7 +163,7 @@ function App() {
       details: "Focused on modern web development practices, full-stack application delivery, and frontend/backend implementation."
     },
     {
-      school: "Gujarat Technological University",
+      school: "Gujarat Technological University(GCET)",
       degree: "Bachelor of Engineering in Information Technology",
       location: "Gujarat, India",
       dates: "Jun 2016",
